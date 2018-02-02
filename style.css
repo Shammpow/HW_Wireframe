@@ -23,7 +23,7 @@ nav{
 
 .left-section {
     margin-left: 50px;
-    width: 495px;
+    width: 36%;
     float: left;
     height: 435px;
     text-align: center;
@@ -53,7 +53,7 @@ nav{
 
 .aside {
         margin-right: 50px;
-        width: 495px;
+        width: 36%;
         float: right;
         height: 435px;
         text-align: center;
